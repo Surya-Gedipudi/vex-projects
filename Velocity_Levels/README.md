@@ -4,4 +4,4 @@
 
 ![alt text](distance_vs_time_graph.png)
 
-![alt text](image-1.png)
+![alt text](distance_vs_velocity_level_graph.png)
