@@ -2,6 +2,6 @@
 
 #### In addition to the motor velocity, wait states is also modified.
 
-![alt text](image.png)
+![alt text](distance_vs_time_graph.png)
 
 ![alt text](image-1.png)
